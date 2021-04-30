@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
   - Game development
   - Web development
-  - Relational databases
+  - Relational database design
   - System design
   - Backend
 - 🌱 I’m currently learning ...
