@@ -2,16 +2,20 @@
 - 👀 I’m interested in ...
   - Game development
   - Web development
-  - Relational database design
+  - Embedded systems
+  - Databases (SQL, noSQL)
   - System design
-  - Backend
+
+
 - 🌱 I’m currently learning ...
   - Nodejs
   - Express
-  - HTML / pug
+  - Godot
+  
+  
 - 📫 How to reach me ...
-  - Message me on Github
   - Send me an email
+  - Message me on Github
 
 <!---
 oscar-zielsdorff/oscar-zielsdorff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
