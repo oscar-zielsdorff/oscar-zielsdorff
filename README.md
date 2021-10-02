@@ -1,15 +1,14 @@
 - 👋 Hi, I’m @oscar-zielsdorff
 - 👀 I’m interested in ...
   - Game development
+  - Databases (SQL, noSQL)
   - Web development
   - Embedded systems
-  - Databases (SQL, noSQL)
   - System design
 
 
 - 🌱 I’m currently learning ...
-  - Nodejs
-  - Express
+  - Mongodb
   - Godot
   
   
