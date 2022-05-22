@@ -10,7 +10,7 @@
 
 
 - 🌱 I’m currently learning ...
-  - Mongodb
+  - Red Hat Openshift (Kubernetes)
   
   
 - 📫 How to reach me ...
