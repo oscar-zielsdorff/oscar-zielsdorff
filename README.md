@@ -5,7 +5,7 @@
   - Databases (Relational, noSQL)
   - Cloud technology (aws / gcp / mongodb atlas)
   - Game development
-  - Back end Web development
+  - Back end development
   - Embedded systems
 
 
