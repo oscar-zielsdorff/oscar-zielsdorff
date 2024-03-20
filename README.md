@@ -2,20 +2,17 @@
 
 
 - 👀 I’m interested in ...
-  - Databases (Relational, noSQL)
-  - Cloud technology (aws / gcp / mongodb atlas)
+  - Android development
   - Game development
   - Back end development
-  - Embedded systems
 
 
 - 🌱 I’m currently learning ...
-  - Red Hat Openshift (Kubernetes)
+  - Godot
   
   
 - 📫 How to reach me ...
   - Send me an email
-  - Message me on Github
 
 <!---
 oscar-zielsdorff/oscar-zielsdorff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
