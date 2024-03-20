@@ -8,6 +8,7 @@
 
 
 - 🌱 I’m currently learning ...
+  - Kotlin
   - Godot
   
   
