@@ -1,16 +1,11 @@
 - 👋 Hi, I’m @oscar-zielsdorff
 
-
 - 👀 I’m interested in ...
-  - Android development
-  - Game development
   - Back end development
-
+  - Game development
 
 - 🌱 I’m currently learning ...
-  - Kotlin
   - Godot
-  
   
 - 📫 How to reach me ...
   - Send me an email
