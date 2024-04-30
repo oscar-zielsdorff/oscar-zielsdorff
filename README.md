@@ -1,11 +1,13 @@
 - 👋 Hi, I’m @oscar-zielsdorff
 
 - 👀 I’m interested in ...
-  - Back end development
+  - Back end
   - Game development
+  - Databases
+  - Cloud technology
 
 - 🌱 I’m currently learning ...
-  - Godot
+  - Python
   
 - 📫 How to reach me ...
   - Send me an email
