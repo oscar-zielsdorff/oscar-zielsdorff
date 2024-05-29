@@ -7,7 +7,7 @@
   - Cloud technology
 
 - 🌱 I’m currently learning ...
-  - Python
+  - Godot
   
 - 📫 How to reach me ...
   - Send me an email
