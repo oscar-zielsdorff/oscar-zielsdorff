@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @oscar-zielsdorff
 
 - 👀 I’m interested in ...
-  - Back end
+  - Back end development
+  - Full stack development
   - Game development
   - Databases
+  - AI
   - Cloud technology
 
 - 🌱 I’m currently learning ...
