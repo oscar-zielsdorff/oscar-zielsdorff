@@ -2,14 +2,14 @@
 
 - 👀 I’m interested in ...
   - Back end development
-  - Full stack development
-  - Game development
-  - Databases
-  - AI
+  - Machine learning
+  - Data analysis
   - Cloud technology
 
 - 🌱 I’m currently learning ...
-  - Godot
+  - Pandas
+  - Scikit-learn
+  - Pytorch
   
 - 📫 How to reach me ...
   - Email
